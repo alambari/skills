@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img">
+  <title>The five steps of beauty-readme</title>
+  <desc>Five steps from left to right: read the project, build the structure with the first screen first, write true and short text, add visuals that work in light and dark mode, and audit links, images and host-specific syntax. The picture paints its own background so it reads the same on a light and on a dark page.</desc>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#59636e"/></marker></defs>
+  <rect x="1" y="1" width="758" height="148" rx="14" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.5"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <rect x="20" y="35" width="128" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="84" y="70" font-size="16" font-weight="600" fill="#1f2328">Read</text>
+    <text x="84" y="93" font-size="13" fill="#59636e">the project</text>
+    <rect x="168" y="35" width="128" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="232" y="70" font-size="16" font-weight="600" fill="#1f2328">Structure</text>
+    <text x="232" y="93" font-size="13" fill="#59636e">first screen first</text>
+    <rect x="316" y="35" width="128" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="380" y="70" font-size="16" font-weight="600" fill="#1f2328">Write</text>
+    <text x="380" y="93" font-size="13" fill="#59636e">true, short text</text>
+    <rect x="464" y="35" width="128" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="528" y="70" font-size="16" font-weight="600" fill="#1f2328">Visuals</text>
+    <text x="528" y="93" font-size="13" fill="#59636e">light and dark</text>
+    <rect x="612" y="35" width="128" height="80" rx="10" fill="#0f766e"/>
+    <text x="676" y="70" font-size="16" font-weight="600" fill="#ffffff">Audit</text>
+    <text x="676" y="93" font-size="13" fill="#ffffff" fill-opacity="0.9">links and images</text>
+  </g>
+  <g stroke="#59636e" stroke-width="1.5" marker-end="url(#arrow)">
+    <path d="M151 75H165"/>
+    <path d="M299 75H313"/>
+    <path d="M447 75H461"/>
+    <path d="M595 75H609"/>
+  </g>
+</svg>

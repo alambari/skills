@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" role="img">
+  <title>How PROJECT works</title>
+  <desc>Four steps from left to right: STEP ONE, STEP TWO, STEP THREE, STEP FOUR.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#59636e"/>
+    </marker>
+  </defs>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <!-- one box per step: keep the labels short and use the project's real names -->
+    <rect x="10" y="35" width="160" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="90" y="70" font-size="16" font-weight="600" fill="#1f2328">Step one</text>
+    <text x="90" y="93" font-size="13" fill="#59636e">what happens</text>
+
+    <rect x="203" y="35" width="160" height="80" rx="10" fill="#2f6feb"/>
+    <text x="283" y="70" font-size="16" font-weight="600" fill="#ffffff">Step two</text>
+    <text x="283" y="93" font-size="13" fill="#ffffff" fill-opacity="0.85">the one that matters</text>
+
+    <rect x="397" y="35" width="160" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="477" y="70" font-size="16" font-weight="600" fill="#1f2328">Step three</text>
+    <text x="477" y="93" font-size="13" fill="#59636e">what happens</text>
+
+    <rect x="590" y="35" width="160" height="80" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+    <text x="670" y="70" font-size="16" font-weight="600" fill="#1f2328">Step four</text>
+    <text x="670" y="93" font-size="13" fill="#59636e">what happens</text>
+  </g>
+  <g stroke="#59636e" stroke-width="1.5" marker-end="url(#arrow)">
+    <path d="M174 75H199"/>
+    <path d="M367 75H393"/>
+    <path d="M561 75H586"/>
+  </g>
+</svg>

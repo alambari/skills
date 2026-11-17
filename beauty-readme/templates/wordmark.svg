@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img">
+  <title>PROJECT</title>
+  <desc>The PROJECT wordmark on its own plate, readable on a light and on a dark page (the portable form, for GitLab or for both hosts).</desc>
+  <rect x="1" y="1" width="258" height="62" rx="14" fill="#ffffff" stroke="#d1d9e0" stroke-width="1.5"/>
+  <rect x="12" y="12" width="40" height="40" rx="10" fill="#2f6feb"/>
+  <path d="M24 32h16M32 24v16" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <text x="64" y="43" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.5" fill="#1f2328">project</text>
+</svg>
